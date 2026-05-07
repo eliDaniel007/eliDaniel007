@@ -14,7 +14,7 @@
 
 ## Cybersécurité
 
-Passionné par la sécurité offensive et défensive. **3e place au CyberHack CTF** — Cégep de Rivière-du-Loup.
+Passionné par la sécurité offensive et défensive. **3e place au CyberHack CTF**.
 
 <img src="https://skillicons.dev/icons?i=kali,python,linux" height="40" />
 &nbsp;
