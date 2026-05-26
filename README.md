@@ -17,7 +17,7 @@
 | Compétition | Résultat | Date |
 |------------|---------|------|
 | **fi3e UQAR Lévis** — Catégorie Projet baccalauréat | 2e place | Avril 2026 |
-| **CyberHack CTF** — UQAR Lévis | 3e place | — |
+| **CyberHack CTF** — UQAR Lévis | 3e place | Avril 2025 |
 
 *Jeu vidéo 2D éducatif développé avec Godot 4.4 et GDScript · Quiz interactif · Mécaniques de plateforme · Niveaux à difficulté progressive*
 
