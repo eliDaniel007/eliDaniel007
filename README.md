@@ -12,9 +12,20 @@
 
 ---
 
+## Distinctions
+
+| Compétition | Résultat | Date |
+|------------|---------|------|
+| **fi3e UQAR Lévis** — Catégorie Projet baccalauréat | 2e place | Avril 2026 |
+| **CyberHack CTF** — Cégep de Rivière-du-Loup | 3e place | — |
+
+*Jeu vidéo 2D éducatif développé avec Godot 4.4 et GDScript · Quiz interactif · Mécaniques de plateforme · Niveaux à difficulté progressive*
+
+---
+
 ## Cybersécurité
 
-Passionné par la sécurité offensive et défensive. **3e place au CyberHack CTF**.
+Passionné par la sécurité offensive et défensive. **3e place au CyberHack CTF** — Cégep de Rivière-du-Loup.
 
 <img src="https://skillicons.dev/icons?i=kali,python,linux" height="40" />
 &nbsp;
@@ -68,7 +79,7 @@ Objets connectés, électronique embarquée, scripts système.
 | Projet | Description | Stack |
 |--------|------------|-------|
 | [Réservation terrains football](https://github.com/eliDaniel007/reservation-terrains-football) | Application de réservation de terrains de foot | Django REST · React · PostgreSQL |
-| [Jeu QCM 2D Godot](https://github.com/eliDaniel007/jeu-qcm-2d-godot) | Jeu éducatif de quiz 2D | Godot · GDScript |
+| [Jeu QCM 2D Godot](https://github.com/eliDaniel007/jeu-qcm-2d-godot) | Jeu éducatif de quiz 2D — **2e place fi3e UQAR** | Godot 4.4 · GDScript |
 | [Moderant BRVM](https://github.com/eliDaniel007/moderant-brvm) | Analyse boursière de la BRVM | Python |
 | [Password Hashing App](https://github.com/eliDaniel007/PasswordHashingApp) | Hachage sécurisé de mots de passe | C# · .NET |
 
