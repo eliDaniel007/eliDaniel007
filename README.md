@@ -1,106 +1,48 @@
 <h1 align="center">Eli Daniel Senyo</h1>
-<h3 align="center">Étudiant en informatique @ UQAR</h3>
-<h4 align="center">Cybersécurité &nbsp;·&nbsp; Dev logiciel &nbsp;·&nbsp; Jeu vidéo &nbsp;·&nbsp; IoT</h4>
+<p align="center">
+  <b>🛡️ Technicien analyste en cybersécurité</b><br>
+  Détection · Analyse d'incidents · Durcissement réseau
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eli-senyo-79651929a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=eliDaniel007&style=for-the-badge&color=blueviolet" />
+  <a href="https://elidaniel007.github.io"><img src="https://img.shields.io/badge/Portfolio-elidaniel007.github.io-22e0a6?style=for-the-badge&logo=firefox"></a>
+  <a href="https://www.linkedin.com/in/eli-senyo-79651929a"><img src="https://img.shields.io/badge/LinkedIn-Eli%20Senyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:elidanielsenyo@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## Distinctions
+🔎 Je repère la faille **avant** qu'elle soit exploitée : analyse de journaux et de trafic réseau, triage d'alertes et réponse aux incidents. Et comme je viens du génie logiciel, je sais aussi **coder du sécurisé**.
 
-| Compétition | Résultat | Date |
-|------------|---------|------|
-| **fi3e UQAR Lévis** — Catégorie Projet baccalauréat | 2e place | Avril 2026 |
-| **CyberHack CTF** — UQAR Lévis | 3e place | Avril 2025 |
+- 🎓 **Google Cybersecurity Certificate**
+- 🏆 **3e place — CTF CyberHack** (UQAR, 2025) — offensif & défensif, contre 12 équipes
+- 🎓 **Baccalauréat en informatique** — UQAR, concentration cybersécurité
+- 🌐 Beaucoup de mes projets sont **déployés et testables en ligne** → [portfolio](https://elidaniel007.github.io)
 
-*Jeu vidéo 2D éducatif développé avec Godot 4.4 et GDScript · Quiz interactif · Mécaniques de plateforme · Niveaux à difficulté progressive*
+## 🔐 Projets de sécurité
+| Projet | Description | Liens |
+|---|---|---|
+| **Authentification OTP (2FA)** | Jetons temporaires, validation serveur, journaux sécurisés | [Démo](https://authentification-otp.onrender.com/) · [Code](https://github.com/eliDaniel007/OTP) |
+| **Chiffrement & hachage** | AES, RSA, SHA-256, MD5 — cryptographie appliquée | [Démo](https://hachage-md5.onrender.com/) · [Code](https://github.com/eliDaniel007/PasswordHashingApp) |
+| **Générateur de wordlists** | Dictionnaires pour le pentesting | [Démo](https://generateur-dictionnaire.onrender.com/) · [Code](https://github.com/eliDaniel007/DictionnaryApp.github.io) |
 
----
+## 🧰 Compétences
+![](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/-tcpdump-333333)
+![](https://img.shields.io/badge/-Suricata%20(IDS)-C00)
+![](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/-TCP%2FIP%20·%20DNS%20·%20Pare--feu-2E6E8E)
+![](https://img.shields.io/badge/-NIST%20RMF%2FCSF-1F3D5C)
+![](https://img.shields.io/badge/-ISO%2027001-1F3D5C)
+![](https://img.shields.io/badge/-OWASP-000?logo=owasp&logoColor=white)
+![](https://img.shields.io/badge/-Cryptographie%20AES%2FRSA%2FSHA-6C63FF)
+![](https://img.shields.io/badge/-C%23%20/%20.NET-512BD4?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
-## Cybersécurité
-
-Passionné par la sécurité offensive et défensive. **3e place au CyberHack CTF** — UQAR Lévis.
-
-<img src="https://skillicons.dev/icons?i=kali,python,linux" height="40" />
-&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="20" />
-
-CTF & Pentesting &nbsp;·&nbsp; Cryptographie &nbsp;·&nbsp; Analyse réseau (Wireshark)
-
----
-
-## Jeu vidéo
-
-Développement de jeux sur Godot et Unity, par passion.
-
-<img src="https://skillicons.dev/icons?i=godot,unity,cs" height="40" />
-
----
-
-## Arduino & IoT
-
-Objets connectés, électronique embarquée, scripts système.
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash" height="40" />
+## 📊 GitHub
+![](https://github-readme-stats.vercel.app/api?username=eliDaniel007&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
-
-## Développement logiciel
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,ts,js" height="40" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,django,python" height="40" />
-
-**Bases de données**
-
-<img src="https://skillicons.dev/icons?i=postgres" height="40" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="20" />
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,azure,githubactions" height="40" />
-
----
-
-## Projets phares
-
-| Projet | Description | Stack |
-|--------|------------|-------|
-| [Réservation terrains football](https://github.com/eliDaniel007/reservation-terrains-football) | Application de réservation de terrains de foot | Django REST · React · PostgreSQL |
-| [Jeu QCM 2D Godot](https://github.com/eliDaniel007/jeu-qcm-2d-godot) | Jeu éducatif de quiz 2D — **2e place fi3e UQAR** | Godot 4.4 · GDScript |
-| [Moderant BRVM](https://github.com/eliDaniel007/moderant-brvm) | Analyse boursière de la BRVM | Python |
-| [Password Hashing App](https://github.com/eliDaniel007/PasswordHashingApp) | Hachage sécurisé de mots de passe | C# · .NET |
-
----
-
-## Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliDaniel007&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliDaniel007&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## Formation
-
-**Baccalauréat en informatique** — Université du Québec à Rimouski (UQAR)
-GPA : 3,28 / 4,30 &nbsp;·&nbsp; 69 crédits complétés sur 90
-
----
-
-<p align="center">
-  <i>« La sécurité n'est pas un produit, c'est un processus. » — Bruce Schneier</i>
-</p>
+<p align="center"><i>Ouvert aux opportunités en cybersécurité (technicien / analyste SOC, détection, réponse aux incidents) — Québec & à distance.</i></p>
